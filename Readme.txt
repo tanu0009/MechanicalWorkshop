@@ -1,6 +1,4 @@
-Thanks for downloading this template!
+For running this webiste code, run the following commands
 
-Template Name: Append
-Template URL: https://bootstrapmade.com/append-bootstrap-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+git clone ""
+Open index.html in you local host

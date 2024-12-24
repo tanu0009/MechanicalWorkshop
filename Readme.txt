@@ -2,6 +2,8 @@
 
 ---
 ### **Contents**
+
+- [Introduction](#Introduction)
 - [Introduction](#Introduction)
 - [Run Locally](#Run-Locally)
 - [Objective](#Objective)
@@ -90,5 +92,4 @@ AI Integration: Implement AI-driven features for project recommendations and per
 ### **References**
 https://developer.mozilla.org/en-US/docs/Web/HTML
 
-git clone ""
-Open index.html in you local host
+

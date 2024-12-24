@@ -4,7 +4,6 @@
 ### **Contents**
 
 - [Introduction](#Introduction)
-- [Introduction](#Introduction)
 - [Run Locally](#Run-Locally)
 - [Objective](#Objective)
 - [Methodology](#Methodology)
